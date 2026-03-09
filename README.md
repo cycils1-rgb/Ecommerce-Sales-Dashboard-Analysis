@@ -1,40 +1,54 @@
-E-Commerce Data Dashboard - Power BI & SQL
+# E-Commerce Sales Dashboard Analysis
 
-Project Overview
-This project is a comprehensive end-to-end analysis of e-commerce transaction data. I used SQL to query and structure the raw data and Power BI Desktop to build a dynamic, interactive dashboard for business insights.
+A **Power BI and SQL analysis** of e-commerce transactions using a Kaggle dataset. This project demonstrates end-to-end data processing, visualization, and business insights through an interactive dashboard.
 
-Tools & Skills
-Power BI Desktop: Developed a multi-page interactive report with custom themes.
+---
 
-SQL: Scripted data exploration and cleaning queries.
+## Project Overview
+This project provides a comprehensive analysis of e-commerce transaction data.  
+- **SQL** was used to query, clean, and structure raw data.  
+- **Power BI Desktop** was used to create a dynamic, interactive dashboard for exploring business insights.  
 
-Data Modeling: Established relationships between sales, geography, and product categories.
+---
 
-Performance Optimization: Utilized a Power BI Template (.pbit) to ensure a lightweight, shareable project file.
+## Tools & Skills
+- **Power BI Desktop:** Developed a multi-page interactive report with custom themes.  
+- **SQL:** Scripted data exploration and cleaning queries.  
+- **Data Modeling:** Established relationships between sales, geography, and product categories.  
+- **Performance Optimization:** Used a Power BI Template (`.pbit`) to create a lightweight, shareable project file.  
 
-Key Features
-Interactive Slicers: Dynamic buttons to filter the entire report by Order Status (Delivered, Shipped, Canceled).
+---
 
-Geospatial Mapping: Visualized sales distribution across cities and states.
+## Key Features
+- **Interactive Slicers:** Filter the report by Order Status (Delivered, Shipped, Canceled).  
+- **Geospatial Mapping:** Visualize sales distribution across cities and states.  
+- **Top 10 Analysis:** Bar charts showing the highest-performing product categories.  
+- **Cross-Filtering:** Selecting any visual element updates all other charts for deeper insights.  
 
-Top 10 Analysis: Bar charts identifying the highest-performing product categories.
+---
 
-Cross-Filtering: Selecting any visual element automatically updates all other charts for deep-dive analysis.
+## Data Source
+The dataset was sourced from **Kaggle** and contains **anonymized e-commerce transactions**, including:
+- Order values  
+- Timestamps  
+- Customer locations  
 
-Data Source
-The raw data for this project was sourced from Kaggle. It contains a large-scale dataset of anonymized e-commerce transactions, including order values, timestamps, and customer locations.
+---
 
-How to View This Project
-Download the Data: Unzip the Data.zip folder to access the raw CSV.
+## How to View This Project
+1. **Download the Data:** Unzip the `Data.zip` folder to access CSV files.  
+2. **Open the Template:** Open `Ecommerce_Analysis.pbit` in Power BI Desktop.  
+3. **Connect Data:** When prompted, point to the downloaded CSV files as the data source.  
+4. **View SQL:** Open `ecommerce_analysis.sql` to review the queries used for data cleaning and transformation.  
 
-Open the Template: Open Ecommerce_Analysis.pbit.
+---
 
-Connect Data: When prompted, point the data source to your downloaded CSV file.
+## Dashboard Preview
 
-View SQL: Open ecommerce_analysis.sql to view the underlying data logic.
+---
 
-Final Tip for your Repo:
-Once you create the repository, look for the "About" section on the right-hand side of the page. You can add this short summary there:
+## About
+Interactive Power BI Dashboard & SQL analysis of Kaggle E-Commerce data, including geospatial mapping and product performance tracking.  
 
-Interactive Power BI Dashboard & SQL Analysis of Kaggle E-Commerce data. Includes Geospatial mapping and Product Performance tracking."# Ecommerce-Sales-Dashboard-Analysis
-"A Power BI and SQL analysis of e-commerce transactions using a Kaggle dataset."
+---
+
