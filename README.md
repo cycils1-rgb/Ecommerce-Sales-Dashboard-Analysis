@@ -44,7 +44,7 @@ The dataset was sourced from **Kaggle** and contains **anonymized e-commerce tra
 ---
 
 ## Dashboard Preview
-
+dashboard_preview.png
 ---
 
 ## About
